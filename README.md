@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @anafvaz
-- 👀 I’m interested in data analysis and data engineering.
-- 🌱 I’m currently learning computer science, second-year student
-- 📫 How to reach me anafilipasv@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I love to knit
+- 👋 Hi, I’m Ana!
+- 🌟 Aspiring Data Analyst & Engineer | Passionate about transforming data into insights.
+- 🎓 Currently pursuing a Computer Science degree | Second-year student focused on building strong technical foundations.
+- 📊 Skills in data analysis tools (e.g., SQL, Python) and eagerness to learn more about data engineering principles.
+- 📫 Let’s connect! Reach me at: anafilipasv@gmail.com
 
   
 <!---
