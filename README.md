@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ana!
-- 🌟 Aspiring Data Analyst & Engineer | Passionate about transforming data into insights.
-- 🎓 Currently pursuing a Computer Science degree | Second-year student focused on building strong technical foundations.
+- 🌟 Aspiring Data Analyst | Passionate about transforming data into insights.
+- 🎓 Currently pursuing a Computer Science degree | Last year student focused on building strong technical foundations.
 - 📊 Skills in data analysis tools (e.g., SQL, Python) and eagerness to learn more about data engineering principles.
 - 📫 Let’s connect! Reach me at: anafilipasv@gmail.com
 
