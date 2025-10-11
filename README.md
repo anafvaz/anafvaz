@@ -15,11 +15,11 @@ I'm transitioning from medical data management to data analysis, combining my he
 - [**Medical Appointment No-Show Prediction**](https://github.com/anafvaz/Patient-Appointment-No-Show-Analysis) - Python analysis predicting patient attendance using healthcare data
 
 ## Education
-- **B.Sc. Computer Science** - International University of Applied Sciences (Expected 2026)
+- **B.Sc. Computer Science** - International University of Applied Sciences (Expected July 2026)
 - **Bachelor of Sports Science** - University of Lisbon
 
 ## Let's Connect
 - **Email**: anafilipasv@gmail.com
 - **LinkedIn**: www.linkedin.com/in/anafilipa-vaz
-- 
+  
 Open to junior data analyst roles and opportunities to grow in the data field!
