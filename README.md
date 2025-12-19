@@ -6,7 +6,7 @@ I'm transitioning from medical data management to data analysis, combining my he
 
 ## Technical Skills
 - **Languages**: SQL, Python (Pandas, NumPy, Matplotlib)
-- **Visualization**: Tableau, Data Visualization
+- **Visualization**: Tableau
 - **Data Management**: ETL Processes, Database Design, EMR Systems
 - **Analysis**: Exploratory Data Analysis, Data Cleaning, Business Intelligence
 
