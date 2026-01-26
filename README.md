@@ -1,9 +1,9 @@
-Hi, I’m Ana 👋
+Hi, I’m Ana! 
+Junior Data Analyst | SQL • Tableau • Healthcare & Operations
 
-I’m a junior data analyst transitioning from healthcare operations into data analytics, combining hands-on experience working with medical data with strong SQL, Python, and Tableau skills.
+I’m a junior data analyst transitioning from healthcare operations into analytics, with hands-on experience working with real medical and business data. I focus on SQL-based analysis, KPI reporting, and dashboards that support operational decision-making.
 
-My background in medical data management helps me approach analysis with a clear understanding of real-world workflows, data quality issues, and operational constraints. I’m currently completing a B.Sc. in Computer Science while building end-to-end data projects focused on solving practical business problems.
-
+My background in healthcare data management helps me approach analysis with a strong understanding of workflows, data quality issues, and real-world constraints. I’m currently completing a B.Sc. in Computer Science (July 2026) while building end-to-end data projects focused on practical business problems.
 
 ## Technical Skills
 
