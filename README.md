@@ -1,25 +1,58 @@
-Hi, I'm Ana!
+Hi, I’m Ana 👋
 
-**Data Analyst | Healthcare Data Background | SQL + Python + Tableau**
+I’m a junior data analyst transitioning from healthcare operations into data analytics, combining hands-on experience working with medical data with strong SQL, Python, and Tableau skills.
 
-I'm transitioning from medical data management to data analysis, combining my healthcare domain expertise with technical skills in data visualization and analysis. Currently completing my Computer Science degree while building data projects that solve real business problems.
+My background in medical data management helps me approach analysis with a clear understanding of real-world workflows, data quality issues, and operational constraints. I’m currently completing a B.Sc. in Computer Science while building end-to-end data projects focused on solving practical business problems.
+
 
 ## Technical Skills
-- **Languages**: SQL, Python (Pandas, NumPy, Matplotlib)
-- **Visualization**: Tableau
-- **Data Management**: ETL Processes, Database Design, EMR Systems
-- **Analysis**: Exploratory Data Analysis, Data Cleaning, Business Intelligence
+
+**Languages & Analysis**
+- SQL 
+- Python (Pandas, NumPy, Matplotlib)
+
+**Data Visualization**
+- Tableau
+
+**Data & Analytics**
+- Data cleaning and preparation
+- Exploratory data analysis (EDA)
+- KPI definition and reporting
+- Business intelligence dashboards
+
+**Domain Experience**
+- Healthcare data and medical appointment systems
+- EMR workflows and operational reporting
+
+
 
 ## Featured Projects
-- [**Coffee Vending Machine Sales Analysis**](https://github.com/anafvaz/Coffee-Vending-Machine-Sales-Analysis) - SQL analysis & Tableau dashboard identifying sales patterns and customer behavior
-- [**Medical Appointment No-Show Prediction**](https://github.com/anafvaz/Patient-Appointment-No-Show-Analysis) - Python analysis predicting patient attendance using healthcare data
+
+### Patient Appointment No-Show Analysis (SQL + Tableau)
+End-to-end analysis of medical appointment no-shows, focused on identifying operational drivers such as wait time, weekday scheduling, age groups, and SMS reminders.  
+Includes SQL-based data preparation, KPI analysis, and an interactive Tableau dashboard with actionable recommendations.
+
+### Coffee Vending Machine Sales Analysis (SQL + Tableau)
+Sales analysis project exploring product performance, revenue patterns, and customer behavior using SQL and Tableau dashboards.
+
+### Medical Appointment No-Show Analysis (Python – Exploratory)
+Initial exploratory analysis using Python to investigate patient attendance patterns and generate hypotheses later validated through a structured SQL-based workflow.
+
+
 
 ## Education
-- **B.Sc. Computer Science** - International University of Applied Sciences (Expected July 2026)
-- **Bachelor of Sports Science** - University of Lisbon
 
-## Let's Connect
-- **Email**: anafilipasv@gmail.com
-- **LinkedIn**: www.linkedin.com/in/anafilipa-vaz
-  
-Open to junior data analyst roles and opportunities to grow in the data field!
+**B.Sc. Computer Science**  
+International University of Applied Sciences — *Expected July 2026*
+
+**Bachelor of Sports Science**  
+University of Lisbon
+
+---
+
+## Let’s Connect
+
+📧 Email: **anafilipasv@gmail.com**  
+💼 LinkedIn: **https://www.linkedin.com/in/anafilipa-vaz**
+
+I’m currently seeking **junior data analyst** roles and opportunities to grow in analytics, particularly in data-driven business or healthcare environments.
