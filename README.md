@@ -25,7 +25,6 @@ My background in healthcare data management helps me approach analysis with a st
 - EMR workflows and operational reporting
 
 
-
 ## Featured Projects
 
 ### Patient Appointment No-Show Analysis (SQL + Tableau)
@@ -34,10 +33,6 @@ Includes SQL-based data preparation, KPI analysis, and an interactive Tableau da
 
 ### Coffee Vending Machine Sales Analysis (SQL + Tableau)
 Sales analysis project exploring product performance, revenue patterns, and customer behavior using SQL and Tableau dashboards.
-
-### Medical Appointment No-Show Analysis (Python – Exploratory)
-Initial exploratory analysis using Python to investigate patient attendance patterns and generate hypotheses later validated through a structured SQL-based workflow.
-
 
 
 ## Education
