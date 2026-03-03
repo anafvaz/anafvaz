@@ -7,7 +7,8 @@ These days I'm building KPI dashboards in Looker, doing revenue and risk analysi
 My projects here focus on healthcare and operational data, built end-to-end in SQL and Tableau. They're real problems I found interesting, not tutorial datasets.
 
 Currently finishing a B.Sc. in Computer Science (July 2026) and relocating to Valencia, Spain in September 2026 — open to roles there or remote.
-Stack: SQL · Python (Pandas, NumPy, Matplotlib) · Tableau · Looker · Excel
+
+Skills: SQL · Python (Pandas, NumPy, Matplotlib) · Tableau · Looker · Excel
 
 ## Featured Projects
 
