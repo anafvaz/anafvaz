@@ -1,4 +1,4 @@
-Hi, I'm Filipa 👋
+Hi, I'm Filipa 
 
 Data Analyst with a background in healthcare operations. I've spent the last few years working directly with clinical data, EMR systems, and medical workflows, which gives me a pretty different perspective from most analysts who come from a pure tech background.
 
@@ -10,6 +10,9 @@ Currently finishing a B.Sc. in Computer Science (July 2026) and relocating to Va
 Stack: SQL · Python (Pandas, NumPy, Matplotlib) · Tableau · Looker · Excel
 
 ## Featured Projects
+
+### Injection Activity & Revenue Dashboard (SQL + Tableau)
+Revenue and activity analysis across two MSK clinics. Identified 58% revenue concentration in one clinic and disproportionate physician dependency, findings relevant to operational risk planning. Built end-to-end in PostgreSQL and Tableau.
 
 ### Patient Appointment No-Show Analysis (SQL + Tableau)
 Analysis of 100,000+ medical appointment records to identify why patients don't show up. Found that wait times over 30 days significantly increase no-show rates. SMS reminders show a positive but limited effect, though the data doesn't allow us to confirm causality. Built an interactive Tableau dashboard and translated findings into actionable recommendations for improving appointment scheduling and reducing no-show rates in clinic operations.
