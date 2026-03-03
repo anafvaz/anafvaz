@@ -18,6 +18,6 @@ Revenue and activity analysis across two MSK clinics. Identified 58% revenue con
 Analysis of 100,000+ medical appointment records to identify why patients don't show up. Found that wait times over 30 days significantly increase no-show rates. SMS reminders show a positive but limited effect, though the data doesn't allow us to confirm causality. Built an interactive Tableau dashboard and translated findings into actionable recommendations for improving appointment scheduling and reducing no-show rates in clinic operations.
 
 ### Coffee Vending Machine Sales Analysis (SQL + Tableau)
-nalysed transaction data to find revenue patterns, peak hours, and underperforming products. Identified that a small number of products drove the majority of revenue. Recommendations included optimising inventory prioritisation and scheduling restocking outside peak hours to avoid disruption and reduce lost sales.
+Analysed data to find revenue patterns, peak hours, and underperforming products. Identified that a small number of products drove the majority of revenue. Recommendations included optimising inventory prioritisation and scheduling restocking outside peak hours to avoid disruption and reduce lost sales.
 
 Find me: www.linkedin.com/in/anafilipa-vaz · anafilipasv@gmail.com
