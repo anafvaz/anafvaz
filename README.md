@@ -1,4 +1,4 @@
-Hi, I'm Ana Filipa 👋
+Hi, I'm Filipa 👋
 
 Data Analyst with a background in healthcare operations. I've spent the last few years working directly with clinical data, EMR systems, and medical workflows, which gives me a pretty different perspective from most analysts who come from a pure tech background.
 
@@ -12,10 +12,9 @@ Stack: SQL · Python (Pandas, NumPy, Matplotlib) · Tableau · Looker · Excel
 ## Featured Projects
 
 ### Patient Appointment No-Show Analysis (SQL + Tableau)
-End-to-end analysis of medical appointment no-shows, focused on identifying operational drivers such as wait time, weekday scheduling, age groups, and SMS reminders.  
-Includes SQL-based data preparation, KPI analysis, and an interactive Tableau dashboard with actionable recommendations.
+Analysis of 100,000+ medical appointment records to identify why patients don't show up. Found that wait times over 30 days significantly increase no-show rates. SMS reminders show a positive but limited effect, though the data doesn't allow us to confirm causality. Built an interactive Tableau dashboard and translated findings into actionable recommendations for improving appointment scheduling and reducing no-show rates in clinic operations.
 
 ### Coffee Vending Machine Sales Analysis (SQL + Tableau)
-Sales analysis project exploring product performance, revenue patterns, and customer behavior using SQL and Tableau dashboards.
+nalysed transaction data to find revenue patterns, peak hours, and underperforming products. Identified that a small number of products drove the majority of revenue. Recommendations included optimising inventory prioritisation and scheduling restocking outside peak hours to avoid disruption and reduce lost sales.
 
-Find me: LinkedIn · anafilipasv@gmail.com
+Find me: www.linkedin.com/in/anafilipa-vaz · anafilipasv@gmail.com
