@@ -1,10 +1,10 @@
 Hi, I'm Filipa
 
-Data Analyst with a background in healthcare operations. I've spent the last few years working directly with clinical data, EMR systems, and medical workflows, which gives me a pretty different perspective from analysts who come from a pure tech background. I understand what the data represents before I start pulling it apart.
+Data Analyst with a background in healthcare operations. I've spent the last few years working directly with clinical data, EHR systems, and medical workflows, which gives me a pretty different perspective from analysts who come from a pure tech background. I understand what the data represents before I start pulling it apart.
 
 These days I'm building KPI dashboards in Looker and Power BI, doing revenue and risk analysis across clinical operations, and making sure the numbers that reach the executive team are actually trustworthy. I care a lot about data quality — probably because I've seen what happens when it's bad.
 
-My projects here focus on healthcare and operational analytics, built end-to-end in SQL and Tableau. Real problems I found interesting, not tutorial datasets.
+My projects cover healthcare analytics, clinical operations, and broader business questions. I built end-to-end from raw data to insight using SQL, Power BI, and Tableau.
 
 B.Sc. in Computer Science — IU International University, April 2026. Relocating to Lisbon, Portugal in October 2026 — open to Lisbon-based or fully remote EU roles.
 
