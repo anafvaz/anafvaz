@@ -9,7 +9,7 @@ My projects here focus on healthcare and operational analytics, built end-to-end
 B.Sc. in Computer Science — IU International University, April 2026. Relocating to Lisbon, Portugal in October 2026 — open to Lisbon-based or fully remote EU roles.
 
 ## Skills
-SQL · Tableau · Power BI · Looker · Excel
+SQL · Power BI · Looker · Tableau · Excel
 
 ## Featured Projects
 
@@ -21,5 +21,8 @@ Evaluated the return on investment of five patient acquisition channels for a th
 
 ### Patient Appointment No-Show Analysis (SQL · Tableau)
 Analysis of medical appointment records to identify no-show drivers. Wait times over 30 days came out as the strongest risk factor, with younger patients and specific weekdays as secondary signals. Findings translated into scheduling recommendations for clinic operations.
+
+### Does a Good Movie Make More Money? — Rating-Revenue Gap Analysis (SQL · Power BI)
+Examined whether higher-rated films consistently outperform at the box office across 45 years of IMDb data (1980–2025). Highly rated films (7+) averaged $48.46M versus $27.39M for lower-rated films, a gap that held across every decade without exception. A secondary finding: combined language films earn significantly more than English only or foreign films despite nearly identical average ratings, suggesting the revenue gap is not explained by quality alone.
 
 Find me: www.linkedin.com/in/anafilipa-vaz · anafilipasv@gmail.com
